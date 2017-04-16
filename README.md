@@ -1,5 +1,16 @@
-# pprint-warning
+# Running the minmial example
 
+You need the sassc binary in your path. If you don't have it you can download a
+precompiled version for Ubuntu or Windows from: https://github.com/tuhlmann/sassc-binaries
+
+To produce the warning, type:
+
+```
+lein repl
+(run)
+```
+
+# pprint-warning
 
 ## Development
 
